@@ -214,7 +214,7 @@ export const projects = [
     description:
       "Developed a dynamic personal blog with an Express.js backend, enabling seamless content creation and responsive design",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://firebasestorage.googleapis.com/v0/b/daily-edventure.appspot.com/o/dailyedventureproject.png?alt=media&token=2468fbef-1d6d-46db-aae3-3f5386109c04",
     tags: ["ReactJS", "MongoDB", "NodeJS", "ExpressJS", "Firebase"],
     // category: "web app",
     // github: "https://github.com/rishavchanda/Podstream",
@@ -227,7 +227,7 @@ export const projects = [
     description:
       "Developed a Next.js-based movie suggestion platform with Netflix API integration for custom recommendations. Implemented MongoDB for storing user contact details via a contact form.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://firebasestorage.googleapis.com/v0/b/daily-edventure.appspot.com/o/moviesuggestionproject.png?alt=media&token=ed77d8d8-6c71-41a6-8ca5-a3f6f3dd9f40",
     tags: [
       "Next Js",
       "MongoDb",
