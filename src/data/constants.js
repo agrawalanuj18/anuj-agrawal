@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/agrawalanuj18",
   resume:
-    "https://drive.google.com/file/d/1asnr8VytYEBWhpSaBMOGRdfcq0wA6hPm/view?usp=sharing",
+    "https://drive.google.com/file/d/1L75bfoqGeahUNFJPUSUYEABkg2B-_uU9/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/agrawalanuj018/",
   twitter: "https://twitter.com/agrawalanuj018",
   insta: "https://www.instagram.com/agrawalanuj18/",
@@ -235,7 +235,7 @@ export const projects = [
     category: "web app",
     // github: "https://github.com/rishavchanda/Project-Management-App",
     webapp: "https://moviesuggestion.vercel.app/",
-  },
+   },
   // {
   //   id: 2,
   //   title: "Brain Tumor Detection",
