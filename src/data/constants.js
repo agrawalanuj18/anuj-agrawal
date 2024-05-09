@@ -236,18 +236,18 @@ export const projects = [
     // github: "https://github.com/rishavchanda/Project-Management-App",
     webapp: "https://moviesuggestion.vercel.app/",
    },
-  // {
-  //   id: 2,
-  //   title: "Brain Tumor Detection",
-  //   date: "Jan 2023 - Mar 2023",
-  //   description:
-  //     "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-  //   image:
-  //     "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-  //   tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-  //   category: "machine learning",
-  //   github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-  //   webapp: "https://brain-tumor.netlify.app/",
-  // },
+  {
+    id: 2,
+    title: "Optimax",
+    date: "2023",
+    description:
+      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/daily-edventure.appspot.com/o/Screenshot%202024-05-09%20192352.png?alt=media&token=d043f1a5-9388-4f95-b9cf-33b3b53d33eb",
+    tags: ["BootStrap", "CSS", "JavaScript", "HTML"],
+    category: "web app",
+    // github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
+    webapp: "https://optimaxtech.com/",
+  },
 ];
 
