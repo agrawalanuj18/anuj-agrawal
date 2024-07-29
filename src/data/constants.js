@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/agrawalanuj18",
   resume:
-    "https://drive.google.com/file/d/1L75bfoqGeahUNFJPUSUYEABkg2B-_uU9/view?usp=drive_link",
+    "https://drive.google.com/file/d/1sjPGYZUHxepz7_I3yYrRqjxWptg3sn0v/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/agrawalanuj018/",
   twitter: "https://twitter.com/agrawalanuj018",
   insta: "https://www.instagram.com/agrawalanuj18/",
@@ -236,18 +236,19 @@ export const projects = [
     // github: "https://github.com/rishavchanda/Project-Management-App",
     webapp: "https://moviesuggestion.vercel.app/",
    },
+ 
   {
     id: 2,
-    title: "Optimax",
-    date: "2023",
+    title: "Biopole",
+    date: "2024",
     description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
+      "I developed an animated website for a client using Tailwind CSS and JavaScript. The site features dynamic animations and a responsive design, ensuring an engaging user experience across all devices.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/daily-edventure.appspot.com/o/Screenshot%202024-05-09%20192352.png?alt=media&token=d043f1a5-9388-4f95-b9cf-33b3b53d33eb",
-    tags: ["BootStrap", "CSS", "JavaScript", "HTML"],
+      "https://firebasestorage.googleapis.com/v0/b/daily-edventure.appspot.com/o/biopoleeeeeeee.png?alt=media&token=02dd992a-5506-403a-b930-6103a39bc949",
+    tags: ["Tailwind CSS", "CSS", "JavaScript", "HTML"],
     category: "web app",
     // github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://optimaxtech.com/",
+    webapp: "https://biopole.in/",
   },
 ];
 
