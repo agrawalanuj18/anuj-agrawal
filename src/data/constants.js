@@ -5,10 +5,10 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "Developer with expertise in Frontend, Backend, and Java technologies. With a strong foundation in React.js, Node.js, and Tailwind CSS, I specialize in creating seamless, responsive, and impactful digital solutions. I’ve worked on diverse projects, from dynamic blogs to client-specific websites. Let’s innovate and build something extraordinary!",
   github: "https://github.com/agrawalanuj18",
   resume:
-    "https://drive.google.com/file/d/1sjPGYZUHxepz7_I3yYrRqjxWptg3sn0v/view?usp=sharing",
+    "https://drive.google.com/file/d/1wDK1J9KO-eHoReCFOKsLHr0O2aJoI454/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/agrawalanuj018/",
   twitter: "https://twitter.com/agrawalanuj018",
   insta: "https://www.instagram.com/agrawalanuj18/",
@@ -52,11 +52,6 @@ export const skills = [
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
       },
-      {
-        name: "Docker",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
-      },
       
     ],
   },
@@ -98,11 +93,6 @@ export const skills = [
         image: "data:image/jpeg;base64,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",
       },
       {
-        name: "Adobe XD",
-        image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
-      },
-      {
         name: "Figma",
         image:"data:image/jpeg;base64,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",
       },
@@ -114,10 +104,26 @@ export const experiences = [
   {
     id: 0,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    role: "Web Developer - Internship",
+    company: "PixelPandas",
+    date: "06/2024 -- 12/2024",
+    desc: "Built 2 web projects from scratch, handling all stages from development to deployment. Utilized technologies like React.js, Tailwind CSS, JavaScript to create responsive, user-friendly, and fully functional websites.",
+    skills: [
+      "ReactJS",
+      "TailwindCSS",
+      "JavaScript",
+    
+    ],
+    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+  },
+
+  {
+    id: 1,
+    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
     role: "Front-End Web Developer - Internship",
     company: "24Eztacia Technologies Pvt.Ltd.",
     date: "10/2023 -- 11/2023",
-    desc: "Enhanced Web Applications using ReactJS and Tailwind CSS, contributing to key projects during a two-month internship.",
+    desc: "Implemented precise designs from the design team, enhancing user interfaces and experiences through responsive and interactive design solutions.",
     skills: [
       "ReactJS",
       "TailwindCSS",
@@ -128,12 +134,12 @@ export const experiences = [
     // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
   {
-    id: 1,
+    id: 2,
     img: "https://www.persistent.com/wp-content/uploads/2021/04/Logo-variants-Horizontal-2x.jpg",
     role: "Martain Internship Program",
     company: "Persistent",
     date: "06/2023 -- 08/2023",
-    desc: "Acquired hands-on skills in DBMS, Linux, DSA, and Java through intensive training, broadening my practical expertise in these technologies",
+    desc: "Acquired industry-standard skills in DBMS, Linux, DSA, and Java through intensive training and regular testing, successfully passing all assessments.",
     skills: [
       "Java",
       "Linux",
@@ -142,7 +148,7 @@ export const experiences = [
     ],
   },
   {
-    id: 2,
+    id: 3,
     img: "data:image/jpeg;base64,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",
     role: "Front-End Web Developer - Internship",
     company: "Novel Group",
@@ -183,12 +189,12 @@ export const education = [
     school: "University Institute of Technology, RGPV, Bhopal",
     date: "Nov 2020 - June 2024",
     // grade: "8.71 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Information Technology at University Institute of Technology, bhopal.",
+    desc: "I have graduated with a Bachelor's degree in Information Technology from the University Institute of Technology, Bhopal.",
     degree: "Bachelor of Technology - BTech, Information Technology",
   },
   {
     id: 1,
-    img: "https://scontent.fidr1-1.fna.fbcdn.net/v/t1.18169-9/23755490_1414998645264927_8749320676558329037_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=x4pQKXmh8lQAX9i49jv&_nc_ht=scontent.fidr1-1.fna&oh=00_AfAVtNOU3W5ZtD_4Om6fOMuDRF11At7xra3X4AuZjZpOwg&oe=66347A9C",
+    img: "https://scontent.fbho4-3.fna.fbcdn.net/v/t39.30808-6/310334678_507223121415592_3147894012509802326_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Qrjt0LmHzZUQ7kNvgHY98Mg&_nc_zt=23&_nc_ht=scontent.fbho4-3.fna&_nc_gid=Am1J4Dkv73q2wMR2wxGiZVO&oh=00_AYDEPFBUmFrxO9Nuq_SqJ46PKzoDjz4zo9QWnStmHTSW_A&oe=6785A4AB",
     school: "Gurunanak Mission Hr. Sec. School, Maihar",
     date: "Apr 2018 - Apr 2020",
     // grade: "88.2%",
@@ -207,21 +213,35 @@ export const education = [
 ];
 
 export const projects = [
+  
   {
     id: 0,
-    title: "Daily Edventure",
-    // date: "Apr 2023 - May 2023",
+    title: "Biopole",
+    date: "2024",
     description:
-      "Developed a dynamic personal blog with an Express.js backend, enabling seamless content creation and responsive design",
+      "Developed a client-specific website from scratch, replicating the exact Figma design, including contact form for quotation requests and inquiries, with data stored in Excel, Integrated various scrolling effects to enhance user experience and optimized the site for performance and Also Successfully deployed and hosted the website on the cPanel hosting platform, ensuring seamless performance.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/daily-edventure.appspot.com/o/dailyedventureproject.png?alt=media&token=2468fbef-1d6d-46db-aae3-3f5386109c04",
-    tags: ["ReactJS", "MongoDB", "NodeJS", "ExpressJS", "Firebase"],
-    // category: "web app",
-    // github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://dailyedventure.com/",
+      "https://firebasestorage.googleapis.com/v0/b/daily-edventure.appspot.com/o/biopoleeeeeeee.png?alt=media&token=02dd992a-5506-403a-b930-6103a39bc949",
+    tags: [ "React.js", "Tailwind CSS", "JavaScript", "HTML"],
+    category: "web app",
+    // github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
+    webapp: "https://biopole.in/",
   },
   {
     id: 1,
+    title: "Daily Edventure",
+    // date: "Apr 2023 - May 2023",
+    description:
+      "Developed a dynamic blog website with real-time interactions, including an interactive comment section and user authentication through Google login. Utilizing MongoDB for efficient data storage, I implemented category tagging and RESTful APIs to manage posts, enhance user engagement, and ensure a seamless user experience across the site.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/daily-edventure.appspot.com/o/dailyedventureproject.png?alt=media&token=2468fbef-1d6d-46db-aae3-3f5386109c04",
+    tags: ["ReactJS", "MongoDB", "NodeJS", "ExpressJS", "Firebase"],
+    category: "web app",
+    // github: "https://github.com/rishavchanda/Podstream",
+    webapp: "https://github.com/agrawalanuj18/daily-edventure",
+  },
+  {
+    id: 2,
     title: "Movie-Suggestion",
     // date: "Oct 2022 - Present",
     description:
@@ -237,18 +257,6 @@ export const projects = [
     webapp: "https://moviesuggestion.vercel.app/",
    },
  
-  {
-    id: 2,
-    title: "Biopole",
-    date: "2024",
-    description:
-      "I developed an animated website for a client using Tailwind CSS and JavaScript. The site features dynamic animations and a responsive design, ensuring an engaging user experience across all devices.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/daily-edventure.appspot.com/o/biopoleeeeeeee.png?alt=media&token=02dd992a-5506-403a-b930-6103a39bc949",
-    tags: ["Tailwind CSS", "CSS", "JavaScript", "HTML"],
-    category: "web app",
-    // github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://biopole.in/",
-  },
+  
 ];
 
